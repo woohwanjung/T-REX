@@ -18,7 +18,7 @@ python3 gen_data.py
 
 ## Training and Testing
 
-###Training:
+### Training:
 ```
 CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name T-REX --save_name T-REX
 ```
@@ -33,7 +33,7 @@ CUDA_VISIBLE_DEVICES=0 python3 train.py --model_name T-REX --save_name T-REX
     
     
 
-###Testing:
+### Testing:
 ```
 CUDA_VISIBLE_DEVICES=0 python3 test.py --model_name T-REX --save_name T-REX
 ```
