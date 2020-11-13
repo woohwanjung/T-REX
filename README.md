@@ -14,10 +14,11 @@ We utilized the codes from the following repositories:
 ### Cite
 If you use the code, please cite this paper:
 ```
-@inproceedings{jung2020TREX,
-  title={{T-REX}: A Topic-Aware Relation Extraction Model},
-  author={Jung, Woohwan and Shim, Kyuseok},
-  booktitle={Proceedings of the 28th ACM Internaitonal Conference on Informaion and Knowledge Management (CIKM '20)},
-  year={2020},
+@inproceedings{jung2020trex,
+	title={T-REX: A Topic-Aware Relation Extraction Model},
+	author={Jung, Woohwan and Shim, Kyuseok},
+	booktitle={Proceedings of the 29th ACM International Conference on Information \& Knowledge Management},
+	pages={2073--2076},
+	year={2020}
 }
 ```
